@@ -1,0 +1,15 @@
+.image {
+    width: 450px;
+}
+
+.hero {
+    
+    margin-left: auto;
+    padding: 0;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 2em;
+    margin-top: 70px;
+    
+}
