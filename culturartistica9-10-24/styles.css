@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+body {
+    background-image: url('/images/imagen\ 1.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    right: 10px;
+}
+
+.social-icons img {
+    width: 15px; 
+    height: auto; 
+
+}
+
+
+.fondo {
+    background-color: rgb(24, 24, 124);
+    margin: auto;
+}
+
+.log {
+    margin-top: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+}
